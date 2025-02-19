@@ -1,0 +1,24 @@
+{
+    "app_name": "HashMaster",
+    "version": "1.0.0",
+    "settings": {
+        "hashtopolis": {
+            "api_key": "abcdefghij124567890",
+            "url": "http://10.100.200.2333:80",
+            "cracker_version": 4,
+            "hashlist_prefix": "HashMaster_"
+        },
+        "hashes_com": {
+            "api_key": "abcdefghij124567890",
+            "url": "https://hashes.com",
+            "hashlist_prefix": "HC_",
+            "high_value_pph_min_usd": 0.50,
+            "hash_age_window" : 240
+        },
+        "hashmob_net": {
+            "api_key": "abcdefghij124567890",
+            "url": "https://hashmob.net",
+            "hashlist_prefix": "HM_"
+        }
+    }
+}
